@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SystemProperties>
+  <SystemName>EGM_ABB_IRB14000_YuMi</SystemName>
+  <SerialNo>VIRTUAL_USE</SerialNo>
+  <UsedMedia>
+    <Media path="C:\Users\LYA31\AppData\Local\ABB\RobotWare\RobotWare_6.15.3019" name="RobotWare" version="6.15.3019">
+    </Media>
+  </UsedMedia>
+  <ControlModule>
+    <Option descr="UDPUC Driver">
+    </Option>
+    <Option descr="Contact L">
+    </Option>
+    <Option descr="Leadthrough">
+    </Option>
+    <Option descr="YuMi AbsAcc Recovery">
+    </Option>
+    <Option descr="English">
+    </Option>
+    <Option descr="988-1 RW Add-In Prepared">
+    </Option>
+    <Option descr="613-1 Collision Detection">
+    </Option>
+    <Option descr="709-1 DeviceNet Master/Slave">
+    </Option>
+    <Option descr="689-1 Externally Guided Motion (EGM)">
+    </Option>
+    <Option descr="604-1 MultiMove Coordinated">
+    </Option>
+    <Option descr="623-1 Multitasking">
+    </Option>
+    <Option descr="616-1 PC Interface">
+    </Option>
+    <Option descr="RobotWare Base">
+    </Option>
+  </ControlModule>
+  <DriveModule>
+    <Name>Robot1</Name>
+    <Option descr="Hall Sensor Calibration">
+    </Option>
+    <Option descr="Drive System IRB 14000">
+    </Option>
+    <Option descr="IRB 14000-0.5/0.5">
+    </Option>
+    <Option descr="IRB 14000-0.5/0.5">
+    </Option>
+    <Option descr="IRB 14000-0.5/0.5">
+    </Option>
+  </DriveModule>
+</SystemProperties>
